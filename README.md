@@ -1,4 +1,4 @@
-# TextEditor app
+# Simple TextEditor app
 
 ##### 1. Helper toolbar to be shown just above the soft keyboard:
   - Tab: inserts tab character
@@ -24,6 +24,9 @@
   - If the current line has an indentation (tab characters), next line that will be added should have the same indentation
 
 **Note:** The above described functionalities are part of Evernote text editor: https://play.google.com/store/apps/details?id=com.evernote. Try to implement them to behave the same as in that text editor.
+
+
+<img src="/text-editor-sample.jpg" height="600">
 
 ### We expect you to:
 - Implement business rules and test the code base
