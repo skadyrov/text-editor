@@ -32,4 +32,4 @@
 ### We expect you to:
 - Implement business rules and test the code base
 - Use any code architecture you feel that suits the best (but also be prepared to justify your choice)
-- Write in Kotlin
+- Write in Kotlin (Android) / Swift (iOS)
